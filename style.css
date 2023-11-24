@@ -1,0 +1,57 @@
+#app {
+    margin: 50px auto;
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    background: #044863;
+    color: #ffffff;
+    font-family: Montserrat, Helvetica, sans-serif;
+    padding: 18px;
+    box-shadow: 4px 4px 4px #4f4f4f;
+
+}
+
+.dun {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding: 4px;
+    font-family: Montserrat, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+}
+
+.in {
+    /* position: absolute;
+    bottom: 705px;
+    left: 302px; */
+    margin: 11px auto;
+}
+
+
+
+
+@font-face {
+    font-family: "Montserrat";
+    src: url("./fonts/Montserrat-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* @font-face {
+    font-family: "Oswald";
+    src: url("./fonts/Oswald-ExtraLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url("./fonts/Roboto-Thin.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+} */
